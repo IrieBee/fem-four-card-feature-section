@@ -32,8 +32,6 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
-    /* align-items: center; */
     font-family: var(--ff);
     text-align: center;
     padding: 5rem 2rem 0;
@@ -108,6 +106,11 @@ img {
 
 .attribution a {
     color: var(--clr-neutral-dark-blue); 
+}
+
+a:hover {
+    color: var(--clr-primary-blue);
+    transition-duration: 0.5s;
 }
 
 @media (min-width: 650px) {
