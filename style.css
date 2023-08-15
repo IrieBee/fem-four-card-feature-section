@@ -15,7 +15,7 @@
     --fs-xl: 1.5rem;
     --fs-l: 1.2rem;
     --fs-s: 0.8rem;
-    --fs-xs: 0.65rem;
+    --fs-xs: 0.6rem;
 
     --fw-s: 200;
     --fw-m: 400;
@@ -28,10 +28,17 @@
 }
 
 body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
     font-family: var(--ff);
     text-align: center;
-    padding: 2rem;
+    padding: 4rem 2rem 0;
     color: var(--clr-neutral-blue);
+}
+
+main {
+    margin: auto;
 }
 
 h1 {
@@ -59,13 +66,15 @@ main> p {
     flex-direction: column;
     box-shadow: 0 0.5em 1.5em var(--clr-neutral-shadow);
     border-radius: 0.5em;
-    padding: 2em;
+    padding: 1.5em 2em 2em;
     align-items: flex-start;
     margin: 1.75em 0;
 }
 
 .cards> p {
     font-size: var(--fs-s);
+    text-align: left;
+    padding-bottom: 3em;
 }
 
 img {
