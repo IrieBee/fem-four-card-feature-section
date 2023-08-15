@@ -12,6 +12,7 @@
 
     --fs-m: 0.9375rem;
     --fs-l: 1.5rem;
+    --fs-xl: 2rem;
     --fs-s: 0.65rem;
 
     --fw-s: 200;
@@ -22,4 +23,27 @@
 *, *::before, *::after {
     box-sizing: border-box;
     margin: 0;
+}
+
+body {
+    font-family: var(--ff);
+    text-align: center;
+    padding: 2rem;
+    color: var(--clr-neutral-blue);
+}
+
+h1 {
+    font-weight: var(--fw-m);
+}
+
+h1, h2 {
+    font-size: var(--fs-l);
+}
+
+h2, h3 {
+    color: var(--clr-neutral-dark-blue);
+}
+
+main> p {
+    padding: 2em 0;
 }
