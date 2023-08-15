@@ -42,14 +42,14 @@ main {
 }
 
 h1 {
-    font-weight: var(--fw-m);
+    font-weight: var(--fw-s);
 }
 
 h1, h2 {
     font-size: var(--fs-xl);
 }
 
-h2, h3 {
+h1, h2, h3 {
     color: var(--clr-neutral-dark-blue);
 }
 
