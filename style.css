@@ -47,3 +47,10 @@ h2, h3 {
 main> p {
     padding: 2em 0;
 }
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 0.5em 1em var(--clr-neutral-blue);
+    border-radius: 0.5em;
+}
