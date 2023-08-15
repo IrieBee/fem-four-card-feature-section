@@ -18,6 +18,7 @@ This is a solution to the Four card feature section challenge from Frontend Ment
 ### What I learned
 
 * All flex item to be equal -> parent> * {flex-basis: calc(100% / 3);}
+* Change last commit : git commit --amend -m "..."
 
 ## Links
 
@@ -27,6 +28,7 @@ This is a solution to the Four card feature section challenge from Frontend Ment
 ## Useful resources
 
 * https://stackoverflow.com/a/65209525
+* https://stackoverflow.com/a/927397
 
 ## Acknowledgements
 
