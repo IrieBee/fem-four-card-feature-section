@@ -7,7 +7,7 @@ This is a solution to the Four card feature section challenge from Frontend Ment
 
 ### Screenshot
 
-![screenshot](https://github.com/ltsyBitsy/fem-four-card-feature-section/blob/main/images/screenshot.jpg)
+![screenshot](https://github.com/IrieBee/fem-four-card-feature-section/blob/main/images/screenshot.jpg)
 
 ## Built with
 
@@ -22,8 +22,8 @@ This is a solution to the Four card feature section challenge from Frontend Ment
 
 ## Links
 
-* Solution URL: https://github.com/ltsyBitsy/fem-four-card-feature-section
-* Live Site URL: https://ltsybitsy.github.io/fem-four-card-feature-section/
+* Solution URL: https://github.com/IrieBee/fem-four-card-feature-section
+* Live Site URL: https://IrieBee.github.io/fem-four-card-feature-section/
 
 ## Useful resources
 
